@@ -6,8 +6,8 @@ from pathfinder import Grid, astar, create_warehouse_layout
 st.set_page_config(page_title="Robot Path Planner",
                    page_icon="\U0001f916", layout="wide")
 st.title("\U0001f916 Autonomous Robot Path Planning Simulator")
-st.markdown("**A* pathfinding on a warehouse grid \u2013 "
-            "Unmanned Systems concept**")
+st.markdown("**A* pathfinding on a warehouse grid** \u2013 "
+            "**Unmanned Systems concept**")
 st.divider()
  
 # ── SIDEBAR ──
