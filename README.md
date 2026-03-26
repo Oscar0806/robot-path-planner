@@ -1,5 +1,5 @@
 # Autonomous Robot Path Planning Simulator
- # Path finder
+**Path finder**
 ![Pathfinder](screenshot_path.png)
  
 ## Overview
