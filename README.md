@@ -8,7 +8,7 @@ on a 2D grid world. Interactive: set obstacles, start/goal,
 grid size. Visualizes optimal path and explored cells.
  
 ## Live Demo
-**[Open Simulator]()**
+**[Open Simulator](https://oscar0806-robot-path-planner-app-cnh3hm.streamlit.app/)**
  
 ## Features
 - A* algorithm with 8-directional movement
